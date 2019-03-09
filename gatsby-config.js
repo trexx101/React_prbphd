@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: `/your-prefix`,
+    pathPrefix: `/proof-reading`,
     siteMetadata: {
         title: 'Wordpress Gatsby',
         subtitle: `Fetch Data From Local WP Install`,
@@ -9,7 +9,7 @@ module.exports = {
         {
             resolve: "gatsby-source-wordpress",
             options: {
-                baseUrl: "gatsby-wp.localhost",
+                baseUrl: "proofreadingblog.thethasolutions.com",
                 protocol: "http",
                 hostingWPCOM: false,
                 useACF: true,
