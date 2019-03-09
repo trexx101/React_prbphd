@@ -1,0 +1,2 @@
+webpackJsonp([0xda25b9a66f16],{339:function(e,t){e.exports={data:{wordpressPage:{title:"Content Page",content:"\n<p>some more relevant information</p>\n",slug:"content-page",id:"1b4e590e-4ad5-57f1-8fec-e1fa81e421da",date:"March 04, 2019"},site:{id:"Site",siteMetadata:{title:"Wordpress Gatsby",subtitle:"Fetch Data From Local WP Install"}}},pathContext:{id:"1b4e590e-4ad5-57f1-8fec-e1fa81e421da"}}}});
+//# sourceMappingURL=path---content-page-c1071eff6c5fe1acaf78.js.map

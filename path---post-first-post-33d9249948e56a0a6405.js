@@ -1,0 +1,2 @@
+webpackJsonp([0xca3d8396af96],{343:function(t,a){t.exports={data:{wordpressPost:{title:"First post",content:"\n<p>Have a look at my site broo</p>\n",acf:{facebook:"",twitter:"tweets"},featured_media:null},site:{siteMetadata:{title:"Wordpress Gatsby",subtitle:"Fetch Data From Local WP Install"}}},pathContext:{id:"73027541-7763-5d83-b88a-6db88158f828"}}}});
+//# sourceMappingURL=path---post-first-post-33d9249948e56a0a6405.js.map
