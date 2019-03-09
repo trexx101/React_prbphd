@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: `/your-prefix`,
     siteMetadata: {
         title: 'Wordpress Gatsby',
         subtitle: `Fetch Data From Local WP Install`,
@@ -14,6 +15,8 @@ module.exports = {
                 useACF: true,
                 verboseOutput: true
             }
-        }
+        },
+        'gatsby-transformer-sharp',
+        'gatsby-plugin-sharp'
     ],
 };
